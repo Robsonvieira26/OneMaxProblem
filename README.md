@@ -4,12 +4,10 @@
 
 Media of individuals with maximum score randomly created:
 
-$$
-Average =\frac{\frac{PopulationSize}{Bits_Quantity}}{2}
-$$
+Average =(PopulationSize/Bits_Quantity)/2
 
 Chance to appear an individual with maximum score:
-$$
-Chance=\frac{1}{2^B} 
-$$ 
+
+Chance=1/2^B 
+
 B is Bits Quantity
