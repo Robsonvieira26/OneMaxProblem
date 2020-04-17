@@ -4,12 +4,10 @@
 
 Media de individuos com Pontuação maxima criados aleatoriamente:
 
-$$
-Média =\frac{\frac{Tamanho População}{Quantidadede Bits}}{2}
-$$
+Média =(Tamanho População/Quantidadede Bits)/2
 
 Chance de aparecer um individuo com pontuação maxima:
-$$
-Chance=\frac{1}{2^B} 
-$$ 
+
+Chance='/2^B 
+
 B é Quantidade de bits
